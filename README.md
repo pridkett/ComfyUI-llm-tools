@@ -1,7 +1,7 @@
 ComfyUI-llm-tools
 ==================
 
-Patrick Wagstrom &lt;patrick@wagstrom.net&gt;
+Patrick Wagstrom &lt;160672+pridkett@users.noreply.github.com&gt;
 
 August 2024
 
